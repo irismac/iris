@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Free beta" src="https://img.shields.io/badge/beta-free%20until%2031%20Dec%202026-6f5cf0">
+  <img alt="Early access beta, free" src="https://img.shields.io/badge/beta-early%20access%20%C2%B7%20free-6f5cf0">
   <img alt="macOS 26 or later" src="https://img.shields.io/badge/macOS-26%2B-111">
   <img alt="Apple silicon" src="https://img.shields.io/badge/Apple%20silicon-required-111">
   <img alt="English and Italian" src="https://img.shields.io/badge/speaks-English%20%C2%B7%20Italiano-111">
@@ -72,7 +72,7 @@ Iris has no AI account and no servers of its own. For anything beyond simple Mac
 2. Open Iris from Applications. This beta isn't notarized yet, so the first time macOS blocks it: go to **System Settings › Privacy & Security** and choose **Open Anyway**.
 3. Follow the first run: microphone and the other permissions, then Iris downloads its voice and wake-word models (about 2.5 GB, once).
 
-The beta is free until **31 December 2026**. Requires macOS 26 or later on a Mac with Apple silicon.
+The beta is free. This beta build works until **31 December 2026**, when the released version takes over. Requires macOS 26 or later on a Mac with Apple silicon.
 
 ## Feedback
 
