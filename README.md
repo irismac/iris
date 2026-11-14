@@ -72,7 +72,7 @@ Iris has no AI account and no servers of its own. For anything beyond simple Mac
 2. Open Iris from Applications. This beta isn't notarized yet, so the first time macOS blocks it: go to **System Settings › Privacy & Security** and choose **Open Anyway**.
 3. Follow the first run: microphone and the other permissions, then Iris downloads its voice and wake-word models (about 2.5 GB, once).
 
-The beta is free. This beta build works until **31 December 2026**, when the released version takes over. Requires macOS 26 or later on a Mac with Apple silicon.
+The beta is free. This beta build works until **31 March 2027**, when the released version takes over. Requires macOS 26 or later on a Mac with Apple silicon.
 
 ## Feedback
 
