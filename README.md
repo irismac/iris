@@ -56,7 +56,7 @@ Iris lives in your Mac's notch. Say «Iris», or hold <kbd>⌥</kbd> <kbd>Space<
 
 - **Voice, wake word or a key.** «Iris…», or hold <kbd>⌥</kbd> <kbd>Space</kbd>. <kbd>⌥</kbd> <kbd>Esc</kbd> stops everything at once.
 - **Acts on your Mac.** Apps, files, folders, settings, menus, the web. It prefers each app's own way in, and uses the screen and mouse only as a last resort.
-- **Dictation anywhere.** Hold <kbd>fn</kbd> and speak into any text field; Iris cleans up the words.
+- **Dictation anywhere.** Hold <kbd>fn</kbd> and speak into any text field; with Claude Code connected, Iris cleans up the words.
 - **Hands-free mode.** Run your Mac by voice: windows, menus, buttons, typing.
 - **Routines and alerts.** «When I say *work mode*, do…», «Let me know when…».
 - **Asks before it matters.** Anything destructive waits for your yes, payments and passwords always do, and a blocklist keeps apps you choose out of reach.
@@ -70,7 +70,7 @@ Iris has no AI account and no servers of its own. For anything beyond simple Mac
 
 1. Download **`Iris.dmg`** from the [latest release](https://github.com/irismac/iris/releases/latest), open it and drag **Iris** into **Applications**.
 2. Open Iris from Applications. This beta isn't notarized yet, so the first time macOS blocks it: go to **System Settings › Privacy & Security** and choose **Open Anyway**.
-3. Follow the first run: microphone and the other permissions, then Iris downloads its voice and wake-word models (about 2.5 GB, once).
+3. Follow the first run: microphone and the other permissions, then Iris downloads its voice model, its wake-word models and the local model behind quick commands (about 3.2 GB, once).
 
 The beta is free. This beta build works until **31 March 2027**, when the released version takes over. Requires macOS 26 or later on a Mac with Apple silicon.
 
@@ -80,8 +80,8 @@ Found a bug or have an idea? [Open an issue](https://github.com/irismac/iris/iss
 
 ## This repository
 
-For now it holds the beta releases and the issues. The source code is not published yet.
+For now it holds the beta releases and the issues. The source code is not published.
 
 ---
 
-<sub>© 2026 Paolo Vezzini. All rights reserved. The beta is licensed under the <a href="https://irismac.com/terms.html">terms at irismac.com</a>; privacy: <a href="https://irismac.com/privacy.html">irismac.com/privacy</a>. The name «Iris», its logo and the look of its orb are reserved. Claude and Claude Code are trademarks of Anthropic; Iris is an independent project.</sub>
+<sub>© 2026 paypaaul. All rights reserved. The beta is licensed under the <a href="https://irismac.com/terms.html">terms at irismac.com</a>; privacy: <a href="https://irismac.com/privacy.html">irismac.com/privacy</a>. The name «Iris», its logo and the look of its orb are reserved. Claude and Claude Code are trademarks of Anthropic; Iris is an independent project.</sub>
